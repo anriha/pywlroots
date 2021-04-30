@@ -1,0 +1,5 @@
+auditwheel
+dataclasses; python_version < '3.7'
+pywayland>=0.1.1
+wheel
+xkbcommon>=0.2
